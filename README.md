@@ -196,6 +196,13 @@
 * Todo+: Manage todo text based todo lists
 
 
+## IntelliJ Idea Plugins
+* Rainbow Brackets: Color code matching brackets https://plugins.jetbrains.com/plugin/10080-rainbow-brackets/
+* Material Theme UI: Add support for Material Theme https://plugins.jetbrains.com/plugin/8006-material-theme-ui/
+* Atom Material Icons: Add support for Material Icons https://plugins.jetbrains.com/plugin/10044-atom-material-icons/
+* Kotlin: Kotlin language support https://plugins.jetbrains.com/plugin/6954-kotlin/
+
+
 ## Global Node Packages
 * typescript: Add support for Typescript `npm i -g typescript`
 * ts-node-dev: Add support for hot reloading typescript `npm i -g ts-node-dev`
