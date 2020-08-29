@@ -87,6 +87,7 @@
 * wget: Internet file retriever `brew install wget`
 * yajl: CLI json manipulation `brew install yajl`
 * youtube-dl: Internet video downloader `brew install youtube-dl`
+* python: Python language `brew install python@<version>`
 
 ##### Kubernetes
 * yq: yaml document processor `brew install yq`
