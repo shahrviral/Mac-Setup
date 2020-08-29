@@ -156,6 +156,21 @@
 
 ## Custom Configs
 
+### Firefox:
+* Enable Smooth Pinch Zooming: `apz.allow_zooming=true`
+
+### Iterm2
+* Use Minimal theme: Appearance > General > Theme > Minimal
+* Open new tabs in current directory: Profiles > General > Working Directory > Reuse previous session's directory
+* Use vertical cursor bar: Profiles > Text > Cursor > Vertical bar
+* Enable blinking cursor: Profiles > Text > Cursor > Blinking cursor
+* Use MesloLGS NF font: Profiles > Text > Font > MesloLGS NF
+* Enable window transparency: Profiles > Window > Window Transparency > 25%
+* Enable unlimited scrollback: Profiles > Terminal > Scrollback Buffer > Unlimited scrollback
+* Turn off sound bell notification: Profiles > Terminal > Notifications > Silence bell
+* User Natural Text Editing key bindings: Profiles > Keys > Key Mappings > Presets > Natural Text Editing
+
+
 
 ## VS Code Extensions
 
