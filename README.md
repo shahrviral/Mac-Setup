@@ -24,7 +24,7 @@
 * NameChanger: Batch rename files https://mrrsoftware.com/namechanger/
 * Syncthing: Encrypted host to host file synchronization https://syncthing.net/
 * Transmit: Remote / Local file browser and transfer app https://panic.com/transmit/
-    * Alternative: Remote / Local file browser and transfer app https://binarynights.com/
+    * Alternative: Forklift Remote / Local file browser and transfer app https://binarynights.com/
 * Unclutter: Clipboard manager https://unclutterapp.com/panels/clipboard
     * Alternative: Maccy: Clipboard manager https://maccy.app/
 * PopClip: Automatic tooltip on selection https://pilotmoon.com/popclip/
