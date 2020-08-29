@@ -28,6 +28,7 @@
 * Unclutter: Clipboard manager https://unclutterapp.com/panels/clipboard
     * Alternative: Maccy: Clipboard manager https://maccy.app/
 * PopClip: Automatic tooltip on selection https://pilotmoon.com/popclip/
+* FUSE for macOS: File system integration software https://osxfuse.github.io/
     
 ### Communication: 
 * Whatsapp: https://www.whatsapp.com/download/
@@ -144,4 +145,8 @@
 
 ### Brave
 
+
+## Fonts
+
+## Custom Configs
 
