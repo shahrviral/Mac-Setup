@@ -76,10 +76,8 @@
 * ffmpeg: Manipulate audio and video `brew install ffmpeg`
 * git: Git version control `brew install git`
 * gradle: Gradle dependency management `brew install gradle`
-* helm: Helm deployments manager `brew install helm`
 * httpie: CLI rest client `brew install httpie`
 * jenv: Manage java installations `brew install jenv`
-* kubernetes-cli: Manage Kubernetes clusters `brew install kubernetes-cli`
 * rename: Perl powered renamer `brew install rename`
 * the_silver_searcher: Fast file search `brew install the silver searcher`
 * trash: Move files to trash `brew install trash`
@@ -89,7 +87,11 @@
 * wget: Internet file retriever `brew install wget`
 * yajl: CLI json manipulation `brew install yajl`
 * youtube-dl: Internet video downloader `brew install youtube-dl`
+
+##### Kubernetes
 * yq: yaml document processor `brew install yq`
+* kubernetes-cli: Manage Kubernetes clusters `brew install kubernetes-cli`
+* helm: Helm deployments manager `brew install helm`
 
 #### Taps
 * AdoptOpenJDK Tap: Repository for openjdk casks `brew tap AdoptOpenJDK/openjdk`
@@ -102,13 +104,6 @@
 * Oh-My-Zsh: Zsh shell customizer https://ohmyz.sh/#install
 * powerlevel10k/powerlevel10k: Oh My Zsh Theme: https://github.com/romkatv/powerlevel10k#oh-my-zsh
 * plugins: Add useful plugins: `plugins=(git osx web-search kubectl z zsh-autosuggestions zsh-syntax-highlighting aws jira wac)` in `~/.zshrc`
-
-### Krew
-* Krew: Kubectl Plugin manager https://krew.sigs.k8s.io/docs/user-guide/setup/install/
-
-#### Plugins
-* ns: Configure namespace for cluster `kubectl krew install ns`
-* tail: Tail logs in cluster `kubectl krew install tail`
 
 ### NVM
 * nvm: Node version manager https://github.com/nvm-sh/nvm#installing-and-updating
@@ -129,6 +124,14 @@
     * `alias watch='watch '`
     * `alias usage='du -h -d1'`
     * `alias runp="lsof -i "`
+
+### Kubernetes Krew
+* Krew: Kubectl Plugin manager https://krew.sigs.k8s.io/docs/user-guide/setup/install/
+
+#### Plugins
+* ns: Configure namespace for cluster `kubectl krew install ns`
+* tail: Tail logs in cluster `kubectl krew install tail`
+
 
 ## Extensions
 
