@@ -158,3 +158,5 @@
 
 
 ## VS Code Extensions
+
+## Global Node Packages
