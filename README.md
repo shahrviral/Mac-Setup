@@ -124,3 +124,24 @@
     * `alias watch='watch '`
     * `alias usage='du -h -d1'`
     * `alias runp="lsof -i "`
+
+## Extensions
+
+### Firefox
+* uBlock Origin: Ad blocker https://addons.mozilla.org/en-US/firefox/addon/ublock-origin/
+* SponsorBlock: Skip Youtube sponsor segments https://addons.mozilla.org/en-US/firefox/addon/sponsorblock/
+* Privacy Badger: Tracker blocker https://addons.mozilla.org/en-US/firefox/addon/privacy-badger17/
+* Decentraleyes: Prevent CDN level tracking https://addons.mozilla.org/en-US/firefox/addon/decentraleyes/
+* HTTPS Everywhere: Automatically update connections to HTTPS https://addons.mozilla.org/en-US/firefox/addon/https-everywhere/
+* Firefox Multi-Account Containers: Isolated cookie session containers: https://addons.mozilla.org/en-US/firefox/addon/multi-account-containers/
+* Facebook Container: Isolated container for Facebook https://addons.mozilla.org/en-US/firefox/addon/facebook-container/
+* Temporary Containers: Create short lived containers https://addons.mozilla.org/en-US/firefox/addon/temporary-containers/
+* Reddit Enhancement Suite: Reddit customizations https://addons.mozilla.org/en-US/firefox/addon/reddit-enhancement-suite/
+* Tabliss: Elegant customizable new tabs https://addons.mozilla.org/en-US/firefox/addon/tabliss/
+* View Image: Restore Google View Image button https://addons.mozilla.org/en-US/firefox/addon/view-image/
+* Cookies.txt: Export cookies https://addons.mozilla.org/en-US/firefox/addon/cookies-txt/
+* Dark Reader: Change website to dark theme https://addons.mozilla.org/en-US/firefox/addon/darkreader/
+
+### Brave
+
+
