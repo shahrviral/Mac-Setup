@@ -152,6 +152,14 @@
 * Dark Reader: Change website to dark theme https://addons.mozilla.org/en-US/firefox/addon/darkreader/
 
 ### Brave
+* uBlock Origin: Ad blocker https://chrome.google.com/webstore/detail/ublock-origin/cjpalhdlnbpafiamejdnhcphjbkeiagm
+* SponsorBlock: Skip Youtube sponsor segments https://chrome.google.com/webstore/detail/sponsorblock-for-youtube/mnjggcdmjocbbbhaepdhchncahnbgone
+* Privacy Badger: Tracker blocker https://chrome.google.com/webstore/detail/privacy-badger/pkehgijcmpdhfbdbbnkijodmdjhbjlgp
+* View Image: Restore Google View Image button https://chrome.google.com/webstore/detail/view-image/jpcmhcelnjdmblfmjabdeclccemkghjk
+* Decentraleyes: Prevent CDN level tracking https://chrome.google.com/webstore/detail/decentraleyes/ldpochfccmkkmhdbclfhpagapcfdljkj
+* Reddit Enhancement Suite: Reddit customizations https://chrome.google.com/webstore/detail/reddit-enhancement-suite/kbmfpngjjgdllneeigpgjifpgocmfgmb
+* Dark Reader: Change website to dark theme https://chrome.google.com/webstore/detail/dark-reader/eimadpbcbfnmbkopoojfekhnkhdbieeh
+
 
 
 ## Custom Configs
