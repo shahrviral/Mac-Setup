@@ -173,5 +173,21 @@
 
 
 ## VS Code Extensions
+* Auto Close Tag by Jun Han: Automatically add html/xml closing tags
+* Auto Rename Tag by Jun Han: Automatically rename paired html/xml tags
+* Bracket Pair Colorizer by CoenraadS: Color code matching brackets
+* indent-rainbow by oderwat: Add colors to different indentations
+* Text Power Tools by Daniel Tar: Powerfull text manipulation
+* Git Lens--Git supercharged by Eric Anidui: Add advanced Git capabilities
+* ESLint by Dirk Baeumer: ESLint JavaScript integration
+* JavaScript (ES6) code snippets by charalampos karypidis: Code snippets for JavaScript in ES6 syntax
+* Live Server by Ritwick Dey: Launch local development server with live reload
+* Paste JSON as Code by quicktype: Copy JSON and generate classes/types in various languages
+* Prettier - Code formatter by Prettier: Code formatter
+* vscode-icons by VSCode Icons Team: Icons for VS Code
+* Todo+: Manage todo text based todo lists
+
 
 ## Global Node Packages
+* typescript: Add support for Typescript `npm i -g typescript`
+* ts-node-dev: Add support for hot reloading typescript `npm i -g ts-node-dev`
