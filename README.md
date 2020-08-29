@@ -120,7 +120,6 @@
     * `alias venv='python -m venv venv && source venv/bin/activate && pip install --upgrade pip'`
 * Gradle Alias
     * `alias gw='./gradlew'`
-
 * Misc Aliases
     * `alias watch='watch '`
     * `alias usage='du -h -d1'`
