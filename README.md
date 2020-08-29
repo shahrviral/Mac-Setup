@@ -1,6 +1,11 @@
 # Mac-Configs
 
 
+## Fonts
+* FiraCode: https://github.com/tonsky/FiraCode
+* MesloLGS NF: https://github.com/romkatv/powerlevel10k#meslo-nerd-font-patched-for-powerlevel10k
+
+
 ## Softwares
 
 ### Utilities
@@ -35,7 +40,6 @@
 * Telegram: https://telegram.org/
 * Discord: https://discord.com/
 * Slack: https://slack.com/
-
 
 ### Browsers
 * Brave Browser: Chromium based privacy web browser https://brave.com/
@@ -146,7 +150,7 @@
 ### Brave
 
 
-## Fonts
-
 ## Custom Configs
 
+
+## VS Code Extensions
