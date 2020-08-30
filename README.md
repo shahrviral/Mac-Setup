@@ -52,7 +52,9 @@
 * DataGrip: Database IDE https://www.jetbrains.com/datagrip/
 * VS Code: Text editor https://code.visualstudio.com/
 * ITerm 2: Customizable terminal emulator https://iterm2.com/
-* Fork: Git repository manager https://git-fork.com/
+* Tower: Git repository manager https://www.git-tower.com/mac
+   * Fork: Git repository manager https://git-fork.com/
+   * Alternative: GitKraken: Git repository manager https://www.gitkraken.com/
 * Postman: Rest client https://www.postman.com/
 * Docker: Docker for desktop https://hub.docker.com/editions/community/docker-ce-desktop-mac/
 * Kitematic: Docker container manger https://kitematic.com/
