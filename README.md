@@ -34,6 +34,7 @@
     * Alternative: Maccy: Clipboard manager https://maccy.app/
 * PopClip: Automatic tooltip on selection https://pilotmoon.com/popclip/
 * FUSE for macOS: File system integration software https://osxfuse.github.io/
+* DaisyDisk: Disk Usage Browser https://daisydiskapp.com/
     
 ### Communication: 
 * Whatsapp: https://www.whatsapp.com/download/
