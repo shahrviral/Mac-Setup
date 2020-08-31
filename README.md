@@ -23,7 +23,9 @@
 * Keka: Compress and Uncompress Archives https://www.keka.io/en/
     * Alternative: The Unarchiver: Compress and Uncompress Archives https://theunarchiver.com/
 * IINA: Video Player https://iina.io/
-* Dozer: Hide menubar icons https://github.com/Mortennn/Dozer
+* Bartender: https://www.macbartender.com/
+    * Alternative: Hidden Bar: https://github.com/dwarvesf/hidden
+    * Dozer: Hide menubar icons https://github.com/Mortennn/Dozer
 * Finicky: Open links in browsers based on rules https://github.com/johnste/finicky
     * Alternative: Browserosaurus: Prompt browser selection when opening links https://browserosaurus.com/
 * NameChanger: Batch rename files https://mrrsoftware.com/namechanger/
@@ -35,6 +37,7 @@
 * PopClip: Automatic tooltip on selection https://pilotmoon.com/popclip/
 * FUSE for macOS: File system integration software https://osxfuse.github.io/
 * DaisyDisk: Disk Usage Browser https://daisydiskapp.com/
+* Sensei: Mac performance monitor https://sensei.app/
     
 ### Communication: 
 * Whatsapp: https://www.whatsapp.com/download/
