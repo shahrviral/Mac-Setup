@@ -74,9 +74,9 @@
 * Homebrew: Command line applications manager https://brew.sh/
 
 #### Commands
-* `brew leaves` List user installed packages
-* `brew leaves | xargs brew deps --installed --for-each | sed "s/^.*:/$(tput setaf 4)&$(tput sgr0)/"\`: List user installed packages and their dependencies
-* `brew cask leaves | xargs brew deps --installed --for-each | sed "s/^.*:/$(tput setaf 4)&$(tput sgr0)/"\n`: List user installed cask packages and their dependencies
+* List user installed packages: `brew leaves`
+* List user installed packages and their dependencies: `brew leaves | xargs brew deps --installed --for-each | sed "s/^.*:/$(tput setaf 4)&$(tput sgr0)/"\`
+* List user installed cask packages and their dependencies: `brew cask leaves | xargs brew deps --installed --for-each | sed "s/^.*:/$(tput setaf 4)&$(tput sgr0)/"\n`
 
 #### Packages
 * ffmpeg: Manipulate audio and video `brew install ffmpeg`
@@ -184,7 +184,21 @@
 * Turn off sound bell notification: Profiles > Terminal > Notifications > Silence bell
 * User Natural Text Editing key bindings: Profiles > Keys > Key Mappings > Presets > Natural Text Editing
 
+## Forklift
 
+### Set Forklift as default file viewer
+```
+defaults write -g NSFileViewer -string com.binarynights.ForkLift-3;
+defaults write com.apple.LaunchServices/com.apple.launchservices.secure LSHandlers -array-add '{LSHandlerContentType="public.folder";LSHandlerRoleAll="com.binarynights.ForkLift-3";}'
+```
+Restart computer
+
+### Restore Finder as default file viewer
+```
+defaults delete -g NSFileViewer`
+defaults write com.apple.LaunchServices/com.apple.launchservices.secure LSHandlers -array-add '{LSHandlerContentType="public.folder";LSHandlerRoleAll="com.apple.finder";}'
+```
+Restart computer
 
 ## VS Code Extensions
 * Auto Close Tag by Jun Han: Automatically add html/xml closing tags
