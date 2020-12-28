@@ -84,7 +84,7 @@ I am a mac app enthusiast who really enjoys trying new apps to see what best fit
 
 ### Productivity
 * Parcel: Package Tracking https://parcelapp.net/ ✅️ or 💰️🔄
-* Numi: Human friendly calculator https://numi.app/ ⭐️ ✅️
+* Numi: Human friendly calculator https://numi.app/ ⭐️ 💰️
    * Soulver: Human friendly calculator https://www.acqualia.com/soulver/ 💰️
 * PDFExpert: Create/Edit/Annotate PDFs https://pdfexpert.com/ 💰️
 * Notion: Advanced notetaking app https://www.notion.so/product ✅️
