@@ -8,36 +8,84 @@
 
 ## Softwares
 
-### Utilities
+### Security
 * Enpass: Offline cloud agnostic password panager https://www.enpass.io/
-    * Alternative: Bitwarden: Open source password manager https://bitwarden.com/
+    * Bitwarden: Open source password manager https://bitwarden.com/
 * Authy: 2FA manager https://authy.com/
-* AppCleaner: App to completely uninstall other applications https://freemacsoft.net/appcleaner/
-* KeyboardCleanTool: Temporarily disable keyboard to wipe clean https://folivora.ai/keyboardcleantool
-* Docky: Edit dock animations https://dockey.publicspace.co/
+
+### Compression & Encryption
 * Encrypto: Securily encrypt files and folders with a password https://macpaw.com/encrypto
 * Cryptomator: Create secure vaults https://cryptomator.org/
-* Rectangle: Add support for window snapping and keyboard shortcuts for window positioning
-* Amphetemine: Prevent mac from going to sleep https://apps.apple.com/us/app/amphetamine/id937984704?mt=12
-* Alfred: Spotlight replacement with extra features https://www.alfredapp.com/
 * Keka: Compress and Uncompress Archives https://www.keka.io/en/
-    * Alternative: The Unarchiver: Compress and Uncompress Archives https://theunarchiver.com/
-* IINA: Video Player https://iina.io/
-* Bartender: https://www.macbartender.com/
-    * Alternative: Hidden Bar: https://github.com/dwarvesf/hidden
-    * Dozer: Hide menubar icons https://github.com/Mortennn/Dozer
-* Finicky: Open links in browsers based on rules https://github.com/johnste/finicky
-    * Alternative: Browserosaurus: Prompt browser selection when opening links https://browserosaurus.com/
+    * The Unarchiver: Compress and Uncompress Archives https://theunarchiver.com/
+* BetterZip: Browse, Preview, Compress and Uncompress Archives https://macitbetter.com/
+* PDF Squeezer: Compress PDF documents https://witt-software.com/pdfsqueezer/
+
+### File Management
 * NameChanger: Batch rename files https://mrrsoftware.com/namechanger/
-* Syncthing: Encrypted host to host file synchronization https://syncthing.net/
+* Syncthing: Encrypted host to host file synchronization. Great for Mac/Android File Transfer https://syncthing.net/
 * Transmit: Remote / Local file browser and transfer app https://panic.com/transmit/
-    * Alternative: Forklift Remote / Local file browser and transfer app https://binarynights.com/
-* Unclutter: Clipboard manager https://unclutterapp.com/panels/clipboard
-    * Alternative: Maccy: Clipboard manager https://maccy.app/
-* PopClip: Automatic tooltip on selection https://pilotmoon.com/popclip/
-* FUSE for macOS: File system integration software https://osxfuse.github.io/
+* Forklift Remote / Local file browser and transfer app https://binarynights.com/
+* Dropover: Drag and Drop files, text, images to store them temporarily https://dropoverapp.com/
+
+### Photography
+* PhotoMill: Batch convert, edit, manipulate photos https://overmacs.com/?p=photomill
+* PhotoSweeper: Duplicate / Similar photo finder https://overmacs.com/?p=photosweeper
+* Pixea: Minimalistic photo viewer https://www.imagetasks.com/pixea/
+* Gemini: Duplicate / Similar file finder https://macpaw.com/gemini
+
+### Maintenance & Cleanup
+* AppCleaner: App to completely uninstall other applications https://freemacsoft.net/appcleaner/
 * DaisyDisk: Disk Usage Browser https://daisydiskapp.com/
+* KeyboardCleanTool: Temporarily disable keyboard to wipe clean https://folivora.ai/keyboardcleantool
+* Docky: Edit dock animations https://dockey.publicspace.co/
+* TinkerTool: System setting manipulation https://www.bresink.com/osx/TinkerTool.html
+* Onyx: Perform detailed system cleanup https://www.titanium-software.fr/en/onyx.html
+* Macpilot: Advanced system setting manipulation https://www.koingosw.com/products/macpilot/
 * Sensei: Mac performance monitor https://sensei.app/
+
+### Desktop & Menubar Enhancement
+* Bartender: https://www.macbartender.com/
+    * Hidden Bar: https://github.com/dwarvesf/hidden
+    * Dozer: Hide menubar icons https://github.com/Mortennn/Dozer
+* Dato: Menubar Clock with support for different timezones and calendar integration https://sindresorhus.com/dato
+* Clocker: Menubar Utility to view time in different timezones https://apps.apple.com/us/app/clocker/id1056643111?mt=12
+* OneSwitch: Menubar utility to toggle useful settings like connecting bluetooth headphones https://fireball.studio/oneswitch/
+* Rectangle: Window snapping and keyboard shortcuts for window positioning
+   * Mosaic: Advanced Window Management https://www.lightpillar.com/mosaic.html
+* BetterTouchTool: Customize Touchbar and trackpad gestures https://folivora.ai/
+
+### Screenshots & Screen Recording
+* Kap: Elegant screen recorder https://getkap.co/
+* Annotate: Edit Screenshots to blur certain aspects https://apps.apple.com/us/app/annotate-capture-and-share/id918207447?mt=12
+* Gifski: Create GIFs from videos https://apps.apple.com/us/app/gifski/id1351639930?mt=12
+
+### Audio & Video
+* Airflow: Cast local media to Airplay, Chromecast, etc. https://airflow.app/
+* IINA: Video Player https://iina.io/ 
+
+### Clipboard & Text Manipulation
+* Unclutter: Clipboard Manager, Notes, File Shelf https://unclutterapp.com/panels/clipboard
+* Maccy: Clipboard manager https://maccy.app/
+* aText: Automatic text expansion https://www.trankynam.com/atext/
+   * Rocket Typist: Automatic text expansion https://witt-software.com/rockettypist/
+   * Espanso: Fast CLI based text expansion https://espanso.org/
+
+### Productivity
+* Parcel: Package Tracking https://parcelapp.net/
+* Numi: Human friendly calculator https://numi.app/
+   * Soulver: Human friendly calculator https://www.acqualia.com/soulver/
+* PDFExpert: Create/Edit/Annotate PDFs https://pdfexpert.com/
+* Notion: Advanced notetaking app https://www.notion.so/product
+
+### Utilities
+* Amphetemine: Prevent mac from going to sleep https://apps.apple.com/us/app/amphetamine/id937984704?mt=12
+* Muzzle: Automatically turn on Do Not Disturb when screen sharing https://muzzleapp.com/
+* Alfred: Spotlight replacement with extra features https://www.alfredapp.com/
+* Mac Updater: Keep all applications up to date https://www.corecode.io/macupdater/
+* Finicky: Open links in browsers based on rules https://github.com/johnste/finicky
+   * Browserosaurus: Prompt browser selection when opening links https://browserosaurus.com/
+* Hazel: Rule based automatic file organization https://www.noodlesoft.com/
     
 ### Communication: 
 * Whatsapp: https://www.whatsapp.com/download/
