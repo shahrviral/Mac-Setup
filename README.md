@@ -1,4 +1,4 @@
-# Mac-Configs
+# Mac Setup
 
 
 ## Fonts
@@ -10,7 +10,7 @@
 
 ### Security
 * Enpass: Offline cloud agnostic password panager https://www.enpass.io/
-    * Bitwarden: Open source password manager https://bitwarden.com/
+   * Bitwarden: Open source password manager https://bitwarden.com/
 * Authy: 2FA manager https://authy.com/
 
 ### Compression & Encryption
@@ -46,8 +46,8 @@
 
 ### Desktop & Menubar Enhancement
 * Bartender: https://www.macbartender.com/
-    * Hidden Bar: https://github.com/dwarvesf/hidden
-    * Dozer: Hide menubar icons https://github.com/Mortennn/Dozer
+   * Hidden Bar: https://github.com/dwarvesf/hidden
+   * Dozer: Hide menubar icons https://github.com/Mortennn/Dozer
 * Dato: Menubar Clock with support for different timezones and calendar integration https://sindresorhus.com/dato
 * Clocker: Menubar Utility to view time in different timezones https://apps.apple.com/us/app/clocker/id1056643111?mt=12
 * OneSwitch: Menubar utility to toggle useful settings like connecting bluetooth headphones https://fireball.studio/oneswitch/
@@ -104,9 +104,9 @@
 * DataGrip: Database IDE https://www.jetbrains.com/datagrip/
 * VS Code: Text editor https://code.visualstudio.com/
 * ITerm 2: Customizable terminal emulator https://iterm2.com/
-* Tower: Git repository manager https://www.git-tower.com/mac
-   * Fork: Git repository manager https://git-fork.com/
-   * Alternative: GitKraken: Git repository manager https://www.gitkraken.com/
+* Fork: Git repository manager https://git-fork.com/
+   * Tower: Git repository manager https://www.git-tower.com/mac
+   * GitKraken: Git repository manager https://www.gitkraken.com/
 * Postman: Rest client https://www.postman.com/
 * Docker: Docker for desktop https://hub.docker.com/editions/community/docker-ce-desktop-mac/
 * Kitematic: Docker container manger https://kitematic.com/
