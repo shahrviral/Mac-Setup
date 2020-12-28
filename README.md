@@ -1,8 +1,11 @@
 # Mac Setup
 
 💰️ Paid
+
 ✅️ Freemium / Free Prepetual Trial / Free
+
 ⭐️ Must Have
+
 🔄 Subscription
 
 ## Fonts
