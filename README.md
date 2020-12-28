@@ -21,7 +21,7 @@ I am a mac app enthusiast who really enjoys trying new apps to see what best fit
 ## Softwares
 
 ### Security
-* Enpass: Offline cloud agnostic password panager https://www.enpass.io/ ⭐️ 💰️💰️ or 💰️🔄
+* Enpass: Offline cloud agnostic password manager https://www.enpass.io/ ⭐️ 💰️💰️ or 💰️🔄
    * Bitwarden: Open source password manager https://bitwarden.com/ ✅️
 * Authy: 2FA manager https://authy.com/ ⭐️ ✅️
 
@@ -181,10 +181,8 @@ I am a mac app enthusiast who really enjoys trying new apps to see what best fit
 * Brew Aliases
     * `alias brewup='brew update; brew upgrade; brew cleanup -s; brew doctor'`
 * Python Aliases
-    * `alias python='python3'`
-    * `alias pip='pip3'`
     * `alias activate='source venv/bin/activate'`
-    * `alias venv='python -m venv venv && source venv/bin/activate && pip install --upgrade pip'`
+    * `alias venv='python3 -m venv venv && source venv/bin/activate && pip install --upgrade pip'`
 * Gradle Alias
     * `alias gw='./gradlew'`
 * Misc Aliases
