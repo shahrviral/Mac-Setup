@@ -104,6 +104,7 @@ Anyone who wants can buy me a 📘️ or 🍺️ or app on https://www.buymeacof
 ### Communication: 
 * Whatsapp: https://www.whatsapp.com/download/ ⭐️ ✅️
 * Telegram: https://telegram.org/ ⭐️ ✅️
+* Signal https://signal.org/en/ ⭐️ ✅️
 * Discord: https://discord.com/ ✅️
 * Slack: https://slack.com/ ⭐️ ✅️
 
