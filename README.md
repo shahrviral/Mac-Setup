@@ -284,3 +284,5 @@ Restart computer
 ## Global Node Packages
 * typescript: Add support for Typescript `npm i -g typescript`
 * ts-node-dev: Add support for hot reloading typescript `npm i -g ts-node-dev`
+
+Buy me a 📘️ or 🍺️ on https://www.buymeacoffee.com/viralshah
