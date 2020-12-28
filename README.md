@@ -81,6 +81,7 @@ I am a mac app enthusiast who really enjoys trying new apps to see what best fit
 * aText: Automatic text expansion https://www.trankynam.com/atext/ 💰️
    * Rocket Typist: Automatic text expansion https://witt-software.com/rockettypist/ 💰️
    * Espanso: Fast CLI based text expansion https://espanso.org/ ✅️
+* TextSniper: OCR anything https://www.textsniper.app/ 💰️
 
 ### Productivity
 * Parcel: Package Tracking https://parcelapp.net/ ✅️ or 💰️🔄
