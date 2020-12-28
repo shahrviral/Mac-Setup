@@ -1,5 +1,10 @@
 # Mac Setup
 
+## A foreword
+
+I am a mac app enthusiast who really enjoys trying new apps to see what best fits into my workflow. This originally started as, and still remains a reference for me when I setup a new computer, but I hope this helps others find what they need without having to  try everything. For the apps listed below, I was not compensated in any way. These are just the apps I use on a daily basis or use to use in the past. I try to prefer free solutions but occassionally I end up coming across a nice deal for a paid app which I can purchase at a price that is affordable. I try to avoid subscriptions unless I absolutely have to. I think the most expensive app I have purchased is Alfred.
+
+
 💰️ Paid
 
 ✅️ Freemium / Free Prepetual Trial / Free
