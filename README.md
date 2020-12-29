@@ -118,6 +118,7 @@ Anyone who wants can buy me a 📘️ or 🍺️ or app on https://www.buymeacof
 * PyCharm: Python IDE https://www.jetbrains.com/pycharm/ ✅️
 * DataGrip: Database IDE https://www.jetbrains.com/datagrip/ ⭐️ 💰️💰️💰️
 * VS Code: Text editor https://code.visualstudio.com/ ⭐️ ✅️
+   * VSCodium: Free/Libre Open Source Software Binaries of VSCode https://vscodium.com/ ✅️
 * ITerm 2: Customizable terminal emulator https://iterm2.com/ ⭐️ ✅️
 * Fork: Git repository manager https://git-fork.com/ ⭐️ ✅️ or 💰️💰️
    * Tower: Git repository manager https://www.git-tower.com/mac 💰️🔄
