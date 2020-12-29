@@ -24,14 +24,14 @@ Anyone who wants can buy me a 📘️ or 🍺️ or app on https://www.buymeacof
 
 ### Security
 * Enpass: Offline cloud agnostic password manager https://www.enpass.io/ ⭐️ 💰️💰️ or 💰️🔄
-   * Bitwarden: Open source password manager https://bitwarden.com/ ✅️
+  * Bitwarden: Open source password manager https://bitwarden.com/ ✅️
 * Authy: 2FA manager https://authy.com/ ⭐️ ✅️
 
 ### Compression & Encryption
 * Encrypto: Securily encrypt files and folders with a password https://macpaw.com/encrypto ✅️
 * Cryptomator: Create secure vaults https://cryptomator.org/ ✅️
 * Keka: Compress and Uncompress Archives https://www.keka.io/en/ ⭐️ ✅️
-    * The Unarchiver: Compress and Uncompress Archives https://theunarchiver.com/ ✅️
+  * The Unarchiver: Compress and Uncompress Archives https://theunarchiver.com/ ✅️
 * BetterZip: Browse, Preview, Compress and Uncompress Archives https://macitbetter.com/ ⭐️ ✅️
 * PDF Squeezer: Compress PDF documents https://witt-software.com/pdfsqueezer/ ⭐️ 💰️
 
@@ -59,13 +59,13 @@ Anyone who wants can buy me a 📘️ or 🍺️ or app on https://www.buymeacof
 
 ### Desktop & Menubar Enhancement
 * Bartender: https://www.macbartender.com/ ⭐️ 💰️
-   * Hidden Bar: https://github.com/dwarvesf/hidden ⭐️ ✅️
-   * Dozer: Hide menubar icons https://github.com/Mortennn/Dozer ✅️
+  * Hidden Bar: https://github.com/dwarvesf/hidden ⭐️ ✅️
+  * Dozer: Hide menubar icons https://github.com/Mortennn/Dozer ✅️
 * Dato: Menubar Clock with support for different timezones and calendar integration https://sindresorhus.com/dato ⭐️ 💰️
 * Clocker: Menubar Utility to view time in different timezones https://apps.apple.com/us/app/clocker/id1056643111?mt=12 ⭐️ ✅️
 * OneSwitch: Menubar utility to toggle useful settings like connecting bluetooth headphones https://fireball.studio/oneswitch/ ⭐️ 💰️
-* Rectangle: Window snapping and keyboard shortcuts for window positioning ⭐️ ✅️
-   * Mosaic: Advanced Window Management https://www.lightpillar.com/mosaic.html 💰️
+* Rectangle: Window snapping and keyboard shortcuts for window positioning https://rectangleapp.com/ ⭐️ ✅️
+  * Mosaic: Advanced Window Management https://www.lightpillar.com/mosaic.html 💰️
 * BetterTouchTool: Customize Touchbar and trackpad gestures https://folivora.ai/ 💰️💰️
 
 ### Screenshots & Screen Recording
@@ -73,6 +73,7 @@ Anyone who wants can buy me a 📘️ or 🍺️ or app on https://www.buymeacof
 * Annotate: Edit Screenshots to blur certain aspects https://apps.apple.com/us/app/annotate-capture-and-share/id918207447?mt=12 ✅️
 * Gifski: Create GIFs from videos https://apps.apple.com/us/app/gifski/id1351639930?mt=12 ✅️
 * Presentify: Screen Annotation and Cursor Highlight https://presentify.compzets.com ⭐️ 💰
+* CleanShot X: All in one screenshot and recording solution https://cleanshot.com/ 💰️💰️
 
 ### Audio & Video
 * Airflow: Cast local media to Airplay, Chromecast, etc. https://airflow.app/ ⭐️ 💰️
@@ -82,16 +83,17 @@ Anyone who wants can buy me a 📘️ or 🍺️ or app on https://www.buymeacof
 * Unclutter: Clipboard Manager, Notes, File Shelf https://unclutterapp.com/panels/clipboard ⭐️ 💰️
 * Maccy: Clipboard manager https://maccy.app/ ✅️
 * aText: Automatic text expansion https://www.trankynam.com/atext/ 💰️
-   * Rocket Typist: Automatic text expansion https://witt-software.com/rockettypist/ 💰️
-   * Espanso: Fast CLI based text expansion https://espanso.org/ ✅️
-* TextSniper: OCR anything https://www.textsniper.app/ 💰️
+  * Rocket Typist: Automatic text expansion https://witt-software.com/rockettypist/ 💰️
+  * Espanso: Fast CLI based text expansion https://espanso.org/ ✅️
+* OwlOCR: Powerful easy to use OCR https://owlocr.com/ ⭐️ ✅️ or 💰️
+  * TextSniper: OCR anything https://www.textsniper.app/ 💰️
 
 ### Productivity
 * Parcel: Package Tracking https://parcelapp.net/ ✅️ or 💰️🔄
 * Numi: Human friendly calculator https://numi.app/ ⭐️ 💰️
-   * Soulver: Human friendly calculator https://www.acqualia.com/soulver/ 💰️
+  * Soulver: Human friendly calculator https://www.acqualia.com/soulver/ 💰️
 * PDFExpert: Create/Edit/Annotate PDFs https://pdfexpert.com/ 💰️
-* Notion: Advanced notetaking app https://www.notion.so/product ✅️
+* Notion: Advanced notetaking app https://www.notion.so/product ⭐️ ✅️
 
 ### Utilities
 * Amphetemine: Prevent mac from going to sleep https://apps.apple.com/us/app/amphetamine/id937984704?mt=12 ⭐️ ✅️
@@ -99,8 +101,11 @@ Anyone who wants can buy me a 📘️ or 🍺️ or app on https://www.buymeacof
 * Alfred: Spotlight replacement with extra features https://www.alfredapp.com/ ⭐️ ✅️ 💰️💰️💰️
 * Mac Updater: Keep all applications up to date https://www.corecode.io/macupdater/ ⭐️ 💰️
 * Finicky: Open links in browsers based on rules https://github.com/johnste/finicky ⭐️ ✅️
-   * Browserosaurus: Prompt browser selection when opening links https://browserosaurus.com/ ✅️
+  * Browserosaurus: Prompt browser selection when opening links https://browserosaurus.com/ ✅️
 * Hazel: Rule based automatic file organization https://www.noodlesoft.com/ ⭐️ 💰️💰️💰️
+* Screens: VNC remote desktop solution https://edovia.com/en/screens-mac/ 💰️💰️
+* Remote Wake Up: Wakeup other devices on LAN https://www.witt-software.com/remotewakeup/ 💰️
+* Microsoft Remote Desktop: Remote wontrol Windows machines from your Mac https://apps.apple.com/us/app/microsoft-remote-desktop/id1295203466?mt=12 ⭐️ ✅️
     
 ### Communication: 
 * Whatsapp: https://www.whatsapp.com/download/ ⭐️ ✅️
@@ -119,10 +124,11 @@ Anyone who wants can buy me a 📘️ or 🍺️ or app on https://www.buymeacof
 * PyCharm: Python IDE https://www.jetbrains.com/pycharm/ ✅️
 * DataGrip: Database IDE https://www.jetbrains.com/datagrip/ ⭐️ 💰️💰️💰️
 * VS Code: Text editor https://code.visualstudio.com/ ⭐️ ✅️
+  * VSCodium: Free/Libre Open Source Software Binaries of VSCode https://vscodium.com/ ✅️
 * ITerm 2: Customizable terminal emulator https://iterm2.com/ ⭐️ ✅️
 * Fork: Git repository manager https://git-fork.com/ ⭐️ ✅️ or 💰️💰️
-   * Tower: Git repository manager https://www.git-tower.com/mac 💰️🔄
-   * GitKraken: Git repository manager https://www.gitkraken.com/ 💰️🔄
+  * Tower: Git repository manager https://www.git-tower.com/mac 💰️🔄
+  * GitKraken: Git repository manager https://www.gitkraken.com/ 💰️🔄
 * Postman: Rest client https://www.postman.com/ ⭐️ ✅️
 * Docker: Docker for desktop https://hub.docker.com/editions/community/docker-ce-desktop-mac/ ⭐️ ✅️
 * Kitematic: Docker container manger https://kitematic.com/ ⭐️ ✅️ 
@@ -181,18 +187,18 @@ Anyone who wants can buy me a 📘️ or 🍺️ or app on https://www.buymeacof
 
 ### Aliases
 * Youtube Downloader
-    * `alias ytdl='youtube-dl '`
+  * `alias ytdl='youtube-dl '`
 * Brew Aliases
-    * `alias brewup='brew update; brew upgrade; brew cleanup -s; brew doctor'`
+  * `alias brewup='brew update; brew upgrade; brew cleanup -s; brew doctor'`
 * Python Aliases
-    * `alias activate='source venv/bin/activate'`
-    * `alias venv='python3 -m venv venv && source venv/bin/activate && pip install --upgrade pip'`
+  * `alias activate='source venv/bin/activate'`
+  * `alias venv='python3 -m venv venv && source venv/bin/activate && pip install --upgrade pip'`
 * Gradle Alias
-    * `alias gw='./gradlew'`
+  * `alias gw='./gradlew'`
 * Misc Aliases
-    * `alias watch='watch '`
-    * `alias usage='du -h -d1'`
-    * `alias runp="lsof -i "`
+  * `alias watch='watch '`
+  * `alias usage='du -h -d1'`
+  * `alias runp="lsof -i "`
 
 ### Kubernetes Krew
 * Krew: Kubectl Plugin manager https://krew.sigs.k8s.io/docs/user-guide/setup/install/
@@ -214,10 +220,10 @@ Anyone who wants can buy me a 📘️ or 🍺️ or app on https://www.buymeacof
 * Facebook Container: Isolated container for Facebook https://addons.mozilla.org/en-US/firefox/addon/facebook-container/
 * Temporary Containers: Create short lived containers https://addons.mozilla.org/en-US/firefox/addon/temporary-containers/
 * Reddit Enhancement Suite: Reddit customizations https://addons.mozilla.org/en-US/firefox/addon/reddit-enhancement-suite/
-* Tabliss: Elegant customizable new tabs https://addons.mozilla.org/en-US/firefox/addon/tabliss/
 * View Image: Restore Google View Image button https://addons.mozilla.org/en-US/firefox/addon/view-image/
 * Cookies.txt: Export cookies https://addons.mozilla.org/en-US/firefox/addon/cookies-txt/
 * Dark Reader: Change website to dark theme https://addons.mozilla.org/en-US/firefox/addon/darkreader/
+* Bypass Paywall: Access paid webpages online for free https://github.com/iamadamdev/bypass-paywalls-chrome
 
 ### Brave
 * uBlock Origin: Ad blocker https://chrome.google.com/webstore/detail/ublock-origin/cjpalhdlnbpafiamejdnhcphjbkeiagm
