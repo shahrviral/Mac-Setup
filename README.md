@@ -40,7 +40,7 @@ Investing in a good password manager is the one thing everyone should take away 
 The default compression app "Archive Utility" is good, but still lacking in terms of some advanced features. There are plenty of compression apps avaliable on the market, I am partial to the ones below. Keka is a beautiful app, while BetterZip provides a way to preview the contents of a directory.
 
 * Encrypto: Securily encrypt files and folders with a password https://macpaw.com/encrypto ❤️
-* Cryptomator: Create secure vaults https://cryptomator.org/ 🔑️ ❤️
+* Cryptomator: Create secure vaults https://cryptomator.org/ 🔑️ or ❤️
 * Keka: Compress and Uncompress Archives https://www.keka.io/en/ ⭐️ 🏆️ | ❤️
   * The Unarchiver: Compress and Uncompress Archives https://theunarchiver.com/ ❤️
 * BetterZip: Browse, Preview, Compress and Uncompress Archives https://macitbetter.com/ ⭐️ | 🔑️ or 💰️💰️
@@ -48,12 +48,12 @@ The default compression app "Archive Utility" is good, but still lacking in term
 
 ### File Management
 
-Working with files is at the heart of what we do on a day to day basis. Finder is great, but there are certain features which are missing. Features like having2 panes for easy drag and drop and a shelf collect all the files your want without having to click and hold are indespensible.
+Working with files is at the heart of what we do on a day to day basis. Finder is great, but there are certain features which are missing. Features like having 2 panes for easy drag and drop and a shelf collect all the files your want without having to click and hold are indespensible.
 
 * NameChanger: Batch rename files https://mrrsoftware.com/namechanger/ ⭐️ 🏆️ | ❤️
 * Syncthing: Encrypted host to host file synchronization. Great for Mac/Android File Transfer https://syncthing.net/ ⭐️ 🏆️ | ❤️
 * Transmit: Remote / Local file browser and transfer app https://panic.com/transmit/ ⭐️ | 💰️💰️💰️
-* Forklift Remote / Local file browser and transfer app https://binarynights.com/ ⭐️ 🏆️ | 💰️💰️
+* Forklift: Remote / Local file browser and transfer app https://binarynights.com/ ⭐️ 🏆️ | 💰️💰️
 * Dropover: Drag and Drop files, text, images to store them temporarily https://dropoverapp.com/ ⭐️ 🏆️ | 🔑️ or 💰️
 
 ### Photography
@@ -67,7 +67,7 @@ There are a ton of very powerful apps out there for photography, and I use many 
 
 ### Maintenance & Cleanup
 
-There is a constant debate on whether or not you need keep your  mac meticiulousely clean. Whether it's enough to drag an application to the trash to uninstall it or if you should remove all the files it leaves behind? I am partial to the latter methodoligy. The following apps help keep the Mac nice and clean, and allow for the user to customize everything from where screenshots are stored to how caches are managed.
+There is a constant debate on whether or not you need keep your  mac meticiulousely clean. Whether it's enough to drag an application to the trash to uninstall it or if you should remove all the files it leaves behind. I am partial to the latter methodology. The following apps help keep the Mac nice and clean, and allow for the user to customize everything from where screenshots are stored to how caches are managed.
 
 * AppCleaner: App to completely uninstall other applications https://freemacsoft.net/appcleaner/ ⭐️ 🏆️ | ❤️
 * DaisyDisk: Disk Usage Browser https://daisydiskapp.com/ ⭐️ | 💰️
