@@ -6,134 +6,171 @@ I am a mac app enthusiast who really enjoys trying new apps to see what best fit
 
 Anyone who wants can buy me a 📘️ or 🍺️ or app on https://www.buymeacoffee.com/viralshah. I plan on creating a complete website to showcase these in the near future and try out new apps that I hear about.
 
-
+⭐️ Personal Recommendation
+🏆️ Must Have
 💰️ Paid
-
-✅️ Freemium / Free Prepetual Trial / Free
-
-⭐️ Must Have
-
 🔄 Subscription
+❤️ Free
+🔑️ Free Prepetual Trial / Freemeium
+🛍️ Ad Supported
 
 ## Fonts
 * FiraCode: https://github.com/tonsky/FiraCode
 * MesloLGS NF: https://github.com/romkatv/powerlevel10k#meslo-nerd-font-patched-for-powerlevel10k
 
 
-## Softwares
+## Software
 
-### Security
-* Enpass: Offline cloud agnostic password manager https://www.enpass.io/ ⭐️ 💰️💰️ or 💰️🔄
-  * Bitwarden: Open source password manager https://bitwarden.com/ ✅️
-* Authy: 2FA manager https://authy.com/ ⭐️ ✅️
+### Password Managemnt 🏆️
+
+Investing in a good password manager is the one thing everyone should take away from this list. It is incredibly important that everyone uses safe, secure, and unique passwords across all their accounts. Humans are terrible at memorizing snippets of random numbers, characters, and symbols, and we compensate by taking shortcuts which can be exploited. It doesn't matter if you go with LastPass, 1Password, Enpass, BitWarden, Dashlane, etc; anything, just please use something. Most password managers are quite affordable, or have free limited trials. Here are my personal recommendations
+
+* Enpass: Offline cloud agnostic password manager https://www.enpass.io/ ⭐️ | 💰️💰️ or 💰️ 🔄
+  * Bitwarden: Open source password manager https://bitwarden.com/ 🏆️ | ❤️ or 💰️ 🔄
+* Authy: 2FA manager https://authy.com/ ⭐️ 🏆️ | ❤️
 
 ### Compression & Encryption
-* Encrypto: Securily encrypt files and folders with a password https://macpaw.com/encrypto ✅️
-* Cryptomator: Create secure vaults https://cryptomator.org/ ✅️
-* Keka: Compress and Uncompress Archives https://www.keka.io/en/ ⭐️ ✅️
-  * The Unarchiver: Compress and Uncompress Archives https://theunarchiver.com/ ✅️
-* BetterZip: Browse, Preview, Compress and Uncompress Archives https://macitbetter.com/ ⭐️ ✅️
-* PDF Squeezer: Compress PDF documents https://witt-software.com/pdfsqueezer/ ⭐️ 💰️
+
+The default compression app "Archive Utility" is good, but still lacking in terms of some advanced features. There are plenty of compression apps avaliable on the market, I am partial to the ones below. Keka is a beautiful app, while BetterZip provides a way to preview the contents of a directory.
+
+* Encrypto: Securily encrypt files and folders with a password https://macpaw.com/encrypto ❤️
+* Cryptomator: Create secure vaults https://cryptomator.org/ 🔑️ ❤️
+* Keka: Compress and Uncompress Archives https://www.keka.io/en/ ⭐️ 🏆️ | ❤️
+  * The Unarchiver: Compress and Uncompress Archives https://theunarchiver.com/ ❤️
+* BetterZip: Browse, Preview, Compress and Uncompress Archives https://macitbetter.com/ ⭐️ | 🔑️ or 💰️💰️
+* PDF Squeezer: Compress PDF documents https://witt-software.com/pdfsqueezer/ ⭐️ | 💰️
 
 ### File Management
-* NameChanger: Batch rename files https://mrrsoftware.com/namechanger/ ✅️
-* Syncthing: Encrypted host to host file synchronization. Great for Mac/Android File Transfer https://syncthing.net/ ⭐️ ✅️
-* Transmit: Remote / Local file browser and transfer app https://panic.com/transmit/ 💰️💰️💰️
-* Forklift Remote / Local file browser and transfer app https://binarynights.com/ ⭐️ 💰️💰️
-* Dropover: Drag and Drop files, text, images to store them temporarily https://dropoverapp.com/ ⭐️ 💰️
+
+Working with files is at the heart of what we do on a day to day basis. Finder is great, but there are certain features which are missing. Features like having2 panes for easy drag and drop and a shelf collect all the files your want without having to click and hold are indespensible.
+
+* NameChanger: Batch rename files https://mrrsoftware.com/namechanger/ ⭐️ 🏆️ | ❤️
+* Syncthing: Encrypted host to host file synchronization. Great for Mac/Android File Transfer https://syncthing.net/ ⭐️ 🏆️ | ❤️
+* Transmit: Remote / Local file browser and transfer app https://panic.com/transmit/ ⭐️ | 💰️💰️💰️
+* Forklift Remote / Local file browser and transfer app https://binarynights.com/ ⭐️ 🏆️ | 💰️💰️
+* Dropover: Drag and Drop files, text, images to store them temporarily https://dropoverapp.com/ ⭐️ 🏆️ | 🔑️ or 💰️
 
 ### Photography
-* PhotoMill: Batch convert, edit, manipulate photos https://overmacs.com/?p=photomill 💰️
-* PhotoSweeper: Duplicate / Similar photo finder https://overmacs.com/?p=photosweeper ⭐️ 💰️
-* Pixea: Minimalistic photo viewer https://www.imagetasks.com/pixea/ ⭐️ ✅️
-* Gemini: Duplicate / Similar file finder https://macpaw.com/gemini 💰️💰️
+
+There are a ton of very powerful apps out there for photography, and I use many of them, but for day to day work they are a bit too much. These basic apps, along with the built in "Photos" app, are a good place to start.
+
+* PhotoMill: Batch convert, edit, manipulate photos https://overmacs.com/?p=photomill ⭐️ | 💰️
+* PhotoSweeper: Duplicate / Similar photo finder https://overmacs.com/?p=photosweeper ⭐️ 🏆️ | 💰️
+ * Gemini: Duplicate / Similar file finder https://macpaw.com/gemini 💰️💰️
+* Pixea: Minimalistic photo viewer https://www.imagetasks.com/pixea/ ⭐️ 🏆️ | ❤️
 
 ### Maintenance & Cleanup
-* AppCleaner: App to completely uninstall other applications https://freemacsoft.net/appcleaner/ ⭐️ ✅️
-* DaisyDisk: Disk Usage Browser https://daisydiskapp.com/ 💰️
-* KeyboardCleanTool: Temporarily disable keyboard to wipe clean https://folivora.ai/keyboardcleantool ⭐️ ✅️
-* Docky: Edit dock animations https://dockey.publicspace.co/ ⭐️ ✅️
-* TinkerTool: System setting manipulation https://www.bresink.com/osx/TinkerTool.html ⭐️ ✅️
-* Onyx: Perform detailed system cleanup https://www.titanium-software.fr/en/onyx.html ⭐️ ✅️
+
+There is a constant debate on whether or not you need keep your  mac meticiulousely clean. Whether it's enough to drag an application to the trash to uninstall it or if you should remove all the files it leaves behind? I am partial to the latter methodoligy. The following apps help keep the Mac nice and clean, and allow for the user to customize everything from where screenshots are stored to how caches are managed.
+
+* AppCleaner: App to completely uninstall other applications https://freemacsoft.net/appcleaner/ ⭐️ 🏆️ | ❤️
+* DaisyDisk: Disk Usage Browser https://daisydiskapp.com/ ⭐️ | 💰️
+* KeyboardCleanTool: Temporarily disable keyboard to wipe clean https://folivora.ai/keyboardcleantool ⭐️ | ❤️
+* Docky: Edit dock animations https://dockey.publicspace.co/ ⭐️ | ❤️
+* TinkerTool: System setting manipulation https://www.bresink.com/osx/TinkerTool.html ⭐️ | ❤️
+* Onyx: Perform detailed system cleanup https://www.titanium-software.fr/en/onyx.html ⭐️ 🏆️ | ❤️
 * Macpilot: Advanced system setting manipulation https://www.koingosw.com/products/macpilot/ 💰️💰️
 
 ### Desktop & Menubar Enhancement
-* Bartender: https://www.macbartender.com/ ⭐️ 💰️
-  * Hidden Bar: https://github.com/dwarvesf/hidden ⭐️ ✅️
-  * Dozer: Hide menubar icons https://github.com/Mortennn/Dozer ✅️
-* Dato: Menubar Clock with support for different timezones and calendar integration https://sindresorhus.com/dato ⭐️ 💰️
-* Clocker: Menubar Utility to view time in different timezones https://apps.apple.com/us/app/clocker/id1056643111?mt=12 ⭐️ ✅️
-* OneSwitch: Menubar utility to toggle useful settings like connecting bluetooth headphones https://fireball.studio/oneswitch/ ⭐️ 💰️
-* Rectangle: Window snapping and keyboard shortcuts for window positioning https://rectangleapp.com/ ⭐️ ✅️
+
+You see your desktop and menu bar all the time, and there is so much more that you can do then what meets the eye. The following apps are designed to add common features like window snapping, working with dates and times, toggling common settings.
+
+* Bartender: https://www.macbartender.com/ ⭐️ | 💰️
+  * Hidden Bar: https://github.com/dwarvesf/hidden ⭐️ 🏆️ | ❤️
+  * Dozer: Hide menubar icons https://github.com/Mortennn/Dozer ❤️
+* Dato: Menubar Clock with support for different timezones and calendar integration https://sindresorhus.com/dato ⭐️ | 💰️
+* Clocker: Menubar Utility to view time in different timezones https://apps.apple.com/us/app/clocker/id1056643111?mt=12 ⭐️ 🏆️ | ❤️
+* OneSwitch: Menubar utility to toggle useful settings like connecting bluetooth headphones https://fireball.studio/oneswitch/ ⭐️ | 💰️
+* Rectangle: Window snapping and keyboard shortcuts for window positioning https://rectangleapp.com/ ⭐️ 🏆️ | ❤️
   * Mosaic: Advanced Window Management https://www.lightpillar.com/mosaic.html 💰️
 * BetterTouchTool: Customize Touchbar and trackpad gestures https://folivora.ai/ 💰️💰️
 
 ### Screenshots & Screen Recording
-* Kap: Elegant screen recorder https://getkap.co/ ✅️
-* Annotate: Edit Screenshots to blur certain aspects https://apps.apple.com/us/app/annotate-capture-and-share/id918207447?mt=12 ✅️
-* Gifski: Create GIFs from videos https://apps.apple.com/us/app/gifski/id1351639930?mt=12 ✅️
+
+The OSX ecosystem comes with some very powerful screen capture utilities built in, but these are a good supplement which address any remaining shortcomings.
+
+* Kap: Elegant screen recorder https://getkap.co/ ⭐️ | ❤️
+* Annotate: Edit Screenshots to blur certain aspects https://apps.apple.com/us/app/annotate-capture-and-share/id918207447?mt=12 ⭐️ | ❤️
+* Gifski: Create GIFs from videos https://apps.apple.com/us/app/gifski/id1351639930?mt=12 ⭐️ | ❤️
 * CleanShot X: All in one screenshot and recording solution https://cleanshot.com/ 💰️💰️
 
 ### Audio & Video
-* Airflow: Cast local media to Airplay, Chromecast, etc. https://airflow.app/ ⭐️ 💰️
-* IINA: Video Player https://iina.io/  ⭐️ ✅️
+
+The default "QuickTime Player" leaves something to be desired in terms of compatibility. The following apps are designed to fill in that gap.
+
+* Plex: Home media server https://www.plex.tv/ ⭐️ 🏆️ | ❤️ or 💰️🔄 or 💰️💰️💰️
+* Airflow: Cast local media to Airplay, Chromecast, etc. https://airflow.app/ ⭐️ | 💰️
+* IINA: Video player https://iina.io/  ⭐️ 🏆️ | ❤️
+  * VLC: Powerful video player https://www.videolan.org/index.html ❤️
 
 ### Clipboard & Text Manipulation
-* Unclutter: Clipboard Manager, Notes, File Shelf https://unclutterapp.com/panels/clipboard ⭐️ 💰️
-* Maccy: Clipboard manager https://maccy.app/ ✅️
-* aText: Automatic text expansion https://www.trankynam.com/atext/ 💰️
+
+Once you start using a clipboard manager, you will never be able to live without one. It is incredibly powerful to have one and saves a ton of time boosting productivity. Similarly text expansion and OCR are extremely useful.
+
+* Unclutter: Clipboard Manager, Notes, File Shelf https://unclutterapp.com/panels/clipboard ⭐️ 🏆️ | 💰️
+* Maccy: Clipboard manager https://maccy.app/ ❤️
+* aText: Automatic text expansion https://www.trankynam.com/atext/ 🏆️ | 💰️
   * Rocket Typist: Automatic text expansion https://witt-software.com/rockettypist/ 💰️
-  * Espanso: Fast CLI based text expansion https://espanso.org/ ✅️
-* OwlOCR: Powerful easy to use OCR https://owlocr.com/ ⭐️ ✅️ or 💰️
+  * Espanso: Fast CLI based text expansion https://espanso.org/ 🏆️ | ❤️
+* OwlOCR: Powerful easy to use OCR https://owlocr.com/ ⭐️ 🏆️ | ❤️ or 💰️
   * TextSniper: OCR anything https://www.textsniper.app/ 💰️
 
 ### Productivity
-* PDFExpert: Create/Edit/Annotate PDFs https://pdfexpert.com/ 💰️
-* Notion: Advanced notetaking app https://www.notion.so/product ⭐️ ✅️
-* Parcel: Package Tracking https://parcelapp.net/ ✅️ or 💰️🔄
+
+The mac comes with a very powerful suite of productivity apps. The iWork suite along with Preview are plenty for normal use, but these apps make working even easier.
+
+* PDFExpert: Create/Edit/Annotate PDFs https://pdfexpert.com/ 🏆️ | 💰️💰️
+* Notion: Advanced notetaking app https://www.notion.so/product ⭐️ 🏆️ | ❤️ or 💰️🔄
+* Parcel: Easy package tracking https://parcelapp.net/ ⭐️ | ❤️ or 💰️🔄
 * Presentify: Screen Annotation and Cursor Highlighter https://presentify.compzets.com 💰
-* Numi: Human friendly calculator https://numi.app/ ⭐️ 💰️
+* Numi: Human friendly calculator https://numi.app/ 💰️
   * Soulver: Human friendly calculator https://www.acqualia.com/soulver/ 💰️
 
 ### Utilities
-* Amphetemine: Prevent mac from going to sleep https://apps.apple.com/us/app/amphetamine/id937984704?mt=12 ⭐️ ✅️
-* Muzzle: Automatically turn on Do Not Disturb when screen sharing https://muzzleapp.com/ ⭐️ ✅️
-* Alfred: Spotlight replacement with extra features https://www.alfredapp.com/ ⭐️ ✅️ 💰️💰️💰️
-* Mac Updater: Keep all applications up to date https://www.corecode.io/macupdater/ ⭐️ 💰️
-* Finicky: Open links in browsers based on rules https://github.com/johnste/finicky ⭐️ ✅️
-  * Browserosaurus: Prompt browser selection when opening links https://browserosaurus.com/ ✅️
-* Hazel: Rule based automatic file organization https://www.noodlesoft.com/ ⭐️ 💰️💰️💰️
+
+These are some very powerful utilities which can make your mac behave more of how you would want it to. They serve very specific but common usecases.
+
+_A word about Alfred. Is is an incredible powerful app, and an incredibly expensive one as well. The freemium version is a great place to start and I strongly reccomend it. Take a look at the "Powerpack" it has features which overlap with several other apps. I personally bought it and use several of the features but you can get similar features from a collection of other free and paid apps as well._
+
+* Amphetemine: Prevent mac from going to sleep https://apps.apple.com/us/app/amphetamine/id937984704?mt=12 ⭐️ | ❤️
+* Muzzle: Automatically turn on Do Not Disturb when screen sharing https://muzzleapp.com/ ⭐️ 🏆️ | ❤️
+* Alfred: Spotlight replacement with extra features https://www.alfredapp.com/ ⭐️ 🏆️ | 🔑️ or 💰️💰️💰️
+* Mac Updater: Keep all applications up to date https://www.corecode.io/macupdater/ ⭐️ | 💰️
+* Finicky: Open links in browsers based on rules https://github.com/johnste/finicky ⭐️ | ❤️
+  * Browserosaurus: Prompt browser selection when opening links https://browserosaurus.com/ ❤️
+* Hazel: Rule based automatic file organization https://www.noodlesoft.com/ 🏆️ | 💰️💰️💰️
 * Screens: VNC remote desktop solution https://edovia.com/en/screens-mac/ 💰️💰️
-* Remote Wake Up: Wakeup other devices on LAN https://www.witt-software.com/remotewakeup/ 💰️
-* Microsoft Remote Desktop: Remote wontrol Windows machines from your Mac https://apps.apple.com/us/app/microsoft-remote-desktop/id1295203466?mt=12 ⭐️ ✅️
+* Remote Wake Up: Wakeup other devices on LAN https://www.witt-software.com/remotewakeup/ ⭐️ | 💰️
+* Microsoft Remote Desktop: Remote wontrol Windows machines from your Mac https://apps.apple.com/us/app/microsoft-remote-desktop/id1295203466?mt=12 ⭐️ | ❤️
     
 ### Communication: 
-* Whatsapp: https://www.whatsapp.com/download/ ⭐️ ✅️
-* Telegram: https://telegram.org/ ⭐️ ✅️
-* Signal https://signal.org/en/ ⭐️ ✅️
-* Discord: https://discord.com/ ✅️
-* Slack: https://slack.com/ ⭐️ ✅️
+
+* Whatsapp: https://www.whatsapp.com/download/ ⭐️ | ❤️
+* Telegram: https://telegram.org/ ⭐️ | ❤️
+* Signal https://signal.org/en/ ⭐️ | ❤️
+* Discord: https://discord.com/ ❤️
+* Slack: https://slack.com/ ⭐️ 🏆️ | 🔑️ or 💰️🔄
 
 ### Browsers
-* Brave Browser: Chromium based privacy web browser https://brave.com/ ⭐️ ✅️
-* Firefox Browser: Secure web browser https://www.mozilla.org/en-US/firefox/ ⭐️ ✅️
+* Brave Browser: Chromium based privacy web browser https://brave.com/ ⭐️ 🏆️ | ❤️
+* Firefox Browser: Secure web browser https://www.mozilla.org/en-US/firefox/ ⭐️ 🏆️ | ❤️
 
 ### Development
-* IntelliJ Idea: Java / Kotlin IDE https://www.jetbrains.com/idea/ ⭐️ ✅️
+* IntelliJ Idea: Java / Kotlin IDE https://www.jetbrains.com/idea/ ⭐️ 🏆️ | 🔑️ or 💰️💰️💰️
 * Webstorm: Javascript IDE https://www.jetbrains.com/webstorm/ 💰️💰️💰️
-* PyCharm: Python IDE https://www.jetbrains.com/pycharm/ ✅️
-* DataGrip: Database IDE https://www.jetbrains.com/datagrip/ ⭐️ 💰️💰️💰️
-* VS Code: Text editor https://code.visualstudio.com/ ⭐️ ✅️
-  * VSCodium: Free/Libre Open Source Software Binaries of VSCode https://vscodium.com/ ✅️
-* ITerm 2: Customizable terminal emulator https://iterm2.com/ ⭐️ ✅️
-* Fork: Git repository manager https://git-fork.com/ ⭐️ ✅️ or 💰️💰️
+* PyCharm: Python IDE https://www.jetbrains.com/pycharm/ 🔑️ or 💰️💰️💰️
+* DataGrip: Database IDE https://www.jetbrains.com/datagrip/ ⭐️ | 💰️💰️💰️
+* VS Code: Text editor https://code.visualstudio.com/ ⭐️ 🏆️ | ❤️
+  * VSCodium: Free/Libre Open Source Software Binaries of VSCode https://vscodium.com/ ❤️
+* ITerm 2: Customizable terminal emulator https://iterm2.com/ ⭐️ 🏆️ | ❤️
+* Fork: Git repository manager https://git-fork.com/ ⭐️ | 🔑️ or 💰️💰️
   * Tower: Git repository manager https://www.git-tower.com/mac 💰️🔄
   * GitKraken: Git repository manager https://www.gitkraken.com/ 💰️🔄
-* Postman: Rest client https://www.postman.com/ ⭐️ ✅️
-* Docker: Docker for desktop https://hub.docker.com/editions/community/docker-ce-desktop-mac/ ⭐️ ✅️
-* Kitematic: Docker container manger https://kitematic.com/ ⭐️ ✅️ 
-* Firefox Developer Edition: Development browser https://www.mozilla.org/en-US/firefox/developer/ ⭐️ ✅️
-* Figma: Web design tool https://www.figma.com/ 💰️
+* Postman: Rest client https://www.postman.com/ ⭐️ | 🔑️ or 💰️🔄
+* Docker: Docker for desktop https://hub.docker.com/editions/community/docker-ce-desktop-mac/ ⭐️ 🏆️ | ❤️
+* Kitematic: Docker container manger https://kitematic.com/ ⭐️ | ❤️
+* Firefox Developer Edition: Development browser https://www.mozilla.org/en-US/firefox/developer/ ⭐️ | ❤️
+* Figma: Web design tool https://www.figma.com/ 🏆️ | 💰️
 
 ## Command Line
 
