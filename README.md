@@ -22,6 +22,9 @@ Anyone who wants can buy me a 📘️ or 🍺️ or app on https://www.buymeacof
 
 ## Softwares
 
+### Remote Working Tools
+* Presentify: Screen Annotation and Cursor Highlight https://presentify.compzets.com ⭐️💰
+
 ### Security
 * Enpass: Offline cloud agnostic password manager https://www.enpass.io/ ⭐️ 💰️💰️ or 💰️🔄
    * Bitwarden: Open source password manager https://bitwarden.com/ ✅️
