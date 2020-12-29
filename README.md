@@ -72,7 +72,6 @@ Anyone who wants can buy me a 📘️ or 🍺️ or app on https://www.buymeacof
 * Kap: Elegant screen recorder https://getkap.co/ ✅️
 * Annotate: Edit Screenshots to blur certain aspects https://apps.apple.com/us/app/annotate-capture-and-share/id918207447?mt=12 ✅️
 * Gifski: Create GIFs from videos https://apps.apple.com/us/app/gifski/id1351639930?mt=12 ✅️
-* Presentify: Screen Annotation and Cursor Highlight https://presentify.compzets.com ⭐️ 💰
 * CleanShot X: All in one screenshot and recording solution https://cleanshot.com/ 💰️💰️
 
 ### Audio & Video
@@ -89,11 +88,12 @@ Anyone who wants can buy me a 📘️ or 🍺️ or app on https://www.buymeacof
   * TextSniper: OCR anything https://www.textsniper.app/ 💰️
 
 ### Productivity
-* Parcel: Package Tracking https://parcelapp.net/ ✅️ or 💰️🔄
-* Numi: Human friendly calculator https://numi.app/ ⭐️ 💰️
-  * Soulver: Human friendly calculator https://www.acqualia.com/soulver/ 💰️
 * PDFExpert: Create/Edit/Annotate PDFs https://pdfexpert.com/ 💰️
 * Notion: Advanced notetaking app https://www.notion.so/product ⭐️ ✅️
+* Parcel: Package Tracking https://parcelapp.net/ ✅️ or 💰️🔄
+* Presentify: Screen Annotation and Cursor Highlighter https://presentify.compzets.com 💰
+* Numi: Human friendly calculator https://numi.app/ ⭐️ 💰️
+  * Soulver: Human friendly calculator https://www.acqualia.com/soulver/ 💰️
 
 ### Utilities
 * Amphetemine: Prevent mac from going to sleep https://apps.apple.com/us/app/amphetamine/id937984704?mt=12 ⭐️ ✅️
