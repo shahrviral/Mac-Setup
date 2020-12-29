@@ -72,7 +72,7 @@ Anyone who wants can buy me a 📘️ or 🍺️ or app on https://www.buymeacof
 * Kap: Elegant screen recorder https://getkap.co/ ✅️
 * Annotate: Edit Screenshots to blur certain aspects https://apps.apple.com/us/app/annotate-capture-and-share/id918207447?mt=12 ✅️
 * Gifski: Create GIFs from videos https://apps.apple.com/us/app/gifski/id1351639930?mt=12 ✅️
-
+* CleanShot X: All in one screenshot and recording solution https://cleanshot.com/ 💰️💰️
 ### Audio & Video
 * Airflow: Cast local media to Airplay, Chromecast, etc. https://airflow.app/ ⭐️ 💰️
 * IINA: Video Player https://iina.io/  ⭐️ ✅️
@@ -90,7 +90,7 @@ Anyone who wants can buy me a 📘️ or 🍺️ or app on https://www.buymeacof
 * Numi: Human friendly calculator https://numi.app/ ⭐️ 💰️
    * Soulver: Human friendly calculator https://www.acqualia.com/soulver/ 💰️
 * PDFExpert: Create/Edit/Annotate PDFs https://pdfexpert.com/ 💰️
-* Notion: Advanced notetaking app https://www.notion.so/product ✅️
+* Notion: Advanced notetaking app https://www.notion.so/product ⭐️ ✅️
 
 ### Utilities
 * Amphetemine: Prevent mac from going to sleep https://apps.apple.com/us/app/amphetamine/id937984704?mt=12 ⭐️ ✅️
@@ -100,6 +100,9 @@ Anyone who wants can buy me a 📘️ or 🍺️ or app on https://www.buymeacof
 * Finicky: Open links in browsers based on rules https://github.com/johnste/finicky ⭐️ ✅️
    * Browserosaurus: Prompt browser selection when opening links https://browserosaurus.com/ ✅️
 * Hazel: Rule based automatic file organization https://www.noodlesoft.com/ ⭐️ 💰️💰️💰️
+* Screens: VNC remote desktop solution https://edovia.com/en/screens-mac/ 💰️💰️
+* Remote Wake Up: Wakeup other devices on LAN https://www.witt-software.com/remotewakeup/ 💰️
+* Microsoft Remote Desktop: Remote wontrol Windows machines from your Mac https://apps.apple.com/us/app/microsoft-remote-desktop/id1295203466?mt=12 ⭐️ ✅️
     
 ### Communication: 
 * Whatsapp: https://www.whatsapp.com/download/ ⭐️ ✅️
