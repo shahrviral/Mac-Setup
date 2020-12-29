@@ -7,11 +7,17 @@ I am a mac app enthusiast who really enjoys trying new apps to see what best fit
 Anyone who wants can buy me a 📘️ or 🍺️ or app on https://www.buymeacoffee.com/viralshah. I plan on creating a complete website to showcase these in the near future and try out new apps that I hear about.
 
 ⭐️ Personal Recommendation
+
 🏆️ Must Have
+
 💰️ Paid
+
 🔄 Subscription
+
 ❤️ Free
+
 🔑️ Free Prepetual Trial / Freemeium
+
 🛍️ Ad Supported
 
 ## Fonts
