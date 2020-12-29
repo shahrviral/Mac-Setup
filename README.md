@@ -64,7 +64,7 @@ Anyone who wants can buy me a 📘️ or 🍺️ or app on https://www.buymeacof
 * Dato: Menubar Clock with support for different timezones and calendar integration https://sindresorhus.com/dato ⭐️ 💰️
 * Clocker: Menubar Utility to view time in different timezones https://apps.apple.com/us/app/clocker/id1056643111?mt=12 ⭐️ ✅️
 * OneSwitch: Menubar utility to toggle useful settings like connecting bluetooth headphones https://fireball.studio/oneswitch/ ⭐️ 💰️
-* Rectangle: Window snapping and keyboard shortcuts for window positioning ⭐️ ✅️
+* Rectangle: Window snapping and keyboard shortcuts for window positioning https://rectangleapp.com/ ⭐️ ✅️
    * Mosaic: Advanced Window Management https://www.lightpillar.com/mosaic.html 💰️
 * BetterTouchTool: Customize Touchbar and trackpad gestures https://folivora.ai/ 💰️💰️
 
