@@ -22,9 +22,6 @@ Anyone who wants can buy me a 📘️ or 🍺️ or app on https://www.buymeacof
 
 ## Softwares
 
-### Remote Working Tools
-* Presentify: Screen Annotation and Cursor Highlight https://presentify.compzets.com ⭐️💰
-
 ### Security
 * Enpass: Offline cloud agnostic password manager https://www.enpass.io/ ⭐️ 💰️💰️ or 💰️🔄
    * Bitwarden: Open source password manager https://bitwarden.com/ ✅️
@@ -75,6 +72,7 @@ Anyone who wants can buy me a 📘️ or 🍺️ or app on https://www.buymeacof
 * Kap: Elegant screen recorder https://getkap.co/ ✅️
 * Annotate: Edit Screenshots to blur certain aspects https://apps.apple.com/us/app/annotate-capture-and-share/id918207447?mt=12 ✅️
 * Gifski: Create GIFs from videos https://apps.apple.com/us/app/gifski/id1351639930?mt=12 ✅️
+* Presentify: Screen Annotation and Cursor Highlight https://presentify.compzets.com ⭐️ 💰
 
 ### Audio & Video
 * Airflow: Cast local media to Airplay, Chromecast, etc. https://airflow.app/ ⭐️ 💰️
