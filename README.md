@@ -87,8 +87,9 @@ You see your desktop and menu bar all the time, and there is so much more that y
 * Dato: Menubar Clock with support for different timezones and calendar integration https://sindresorhus.com/dato ⭐️ | 💰️
 * Clocker: Menubar Utility to view time in different timezones https://apps.apple.com/us/app/clocker/id1056643111?mt=12 ⭐️ 🏆️ | ❤️
 * OneSwitch: Menubar utility to toggle useful settings like connecting bluetooth headphones https://fireball.studio/oneswitch/ ⭐️ | 💰️
-* Rectangle: Window snapping and keyboard shortcuts for window positioning https://rectangleapp.com/ ⭐️ 🏆️ | ❤️
-  * Mosaic: Advanced Window Management https://www.lightpillar.com/mosaic.html 💰️
+* Hookshot: Window snapping, trackpad and keyboard shortcuts for window positioning https://hookshot.app/ ⭐️ 🏆️ | 💰️
+  * Rectangle: Window snapping and keyboard shortcuts for window positioning https://rectangleapp.com/ ⭐️ 🏆️ | ❤️
+  * Mosaic: Advanced Window Management https://www.lightpillar.com/mosaic.html ⭐️ 🏆️ | 💰️
 * BetterTouchTool: Customize Touchbar and trackpad gestures https://folivora.ai/ 💰️💰️
 
 ### Screenshots & Screen Recording
@@ -99,6 +100,7 @@ The OSX ecosystem comes with some very powerful screen capture utilities built i
 * Annotate: Edit Screenshots to blur certain aspects https://apps.apple.com/us/app/annotate-capture-and-share/id918207447?mt=12 ⭐️ | ❤️
 * Gifski: Create GIFs from videos https://apps.apple.com/us/app/gifski/id1351639930?mt=12 ⭐️ | ❤️
 * CleanShot X: All in one screenshot and recording solution https://cleanshot.com/ 💰️💰️
+* Redacted: Blur and redact images offline https://useredacted.com/ ⭐️ | ❤️
 
 ### Audio & Video
 
@@ -106,6 +108,7 @@ The default "QuickTime Player" leaves something to be desired in terms of compat
 
 * Plex: Home media server https://www.plex.tv/ ⭐️ 🏆️ | ❤️ or 💰️🔄 or 💰️💰️💰️
 * Airflow: Cast local media to Airplay, Chromecast, etc. https://airflow.app/ ⭐️ | 💰️
+* FireStream: Cast local media to DLNA, UPnP, etc. https://geo.itunes.apple.com/us/app/firestream-upnp-dlna-media-server/id1005325119 💰️💰️
 * IINA: Video player https://iina.io/  ⭐️ 🏆️ | ❤️
   * VLC: Powerful video player https://www.videolan.org/index.html ❤️
 
@@ -129,6 +132,7 @@ The mac comes with a very powerful suite of productivity apps. The iWork suite a
 * Notion: Advanced notetaking app https://www.notion.so/product ⭐️ 🏆️ | ❤️ or 💰️🔄
 * Parcel: Easy package tracking https://parcelapp.net/ ⭐️ | ❤️ or 💰️🔄
 * Presentify: Screen Annotation and Cursor Highlighter https://presentify.compzets.com 💰
+* Quick Calc: Tiny menu bar calculator. https://apps.apple.com/us/app/quick-calc-menubar-calculator/id1548108238?mt=12 💰
 * Numi: Human friendly calculator https://numi.app/ 💰️
   * Soulver: Human friendly calculator https://www.acqualia.com/soulver/ 💰️
 
@@ -142,12 +146,15 @@ _A word about Alfred. Is is an incredible powerful app, and an incredibly expens
 * Muzzle: Automatically turn on Do Not Disturb when screen sharing https://muzzleapp.com/ ⭐️ 🏆️ | ❤️
 * Alfred: Spotlight replacement with extra features https://www.alfredapp.com/ ⭐️ 🏆️ | 🔑️ or 💰️💰️💰️
 * Mac Updater: Keep all applications up to date https://www.corecode.io/macupdater/ ⭐️ | 💰️
-* Finicky: Open links in browsers based on rules https://github.com/johnste/finicky ⭐️ | ❤️
+* OpenIn: Open links files in desired apps based on rules https://loshadki.app/openin/ ⭐️ 🏆️ | 💰️ 
+  * Finicky: Open links in browsers based on rules https://github.com/johnste/finicky ❤️
   * Browserosaurus: Prompt browser selection when opening links https://browserosaurus.com/ ❤️
 * Hazel: Rule based automatic file organization https://www.noodlesoft.com/ 🏆️ | 💰️💰️💰️
 * Screens: VNC remote desktop solution https://edovia.com/en/screens-mac/ 💰️💰️
 * Remote Wake Up: Wakeup other devices on LAN https://www.witt-software.com/remotewakeup/ ⭐️ | 💰️
 * Microsoft Remote Desktop: Remote wontrol Windows machines from your Mac https://apps.apple.com/us/app/microsoft-remote-desktop/id1295203466?mt=12 ⭐️ | ❤️
+* Silicon Info: Identify if an app is running natively on an ARM processor or translated through Rosetta 2 https://apps.apple.com/us/app/silicon-info/id1542271266?mt=12 ❤️
+  * Silicon: Identify if an app is running natively on an ARM processor or translated through Rosetta 2 https://github.com/DigiDNA/Silicon ❤️
     
 ### Communication: 
 
@@ -172,11 +179,12 @@ _A word about Alfred. Is is an incredible powerful app, and an incredibly expens
 * Fork: Git repository manager https://git-fork.com/ ⭐️ | 🔑️ or 💰️💰️
   * Tower: Git repository manager https://www.git-tower.com/mac 💰️🔄
   * GitKraken: Git repository manager https://www.gitkraken.com/ 💰️🔄
-* Postman: Rest client https://www.postman.com/ ⭐️ | 🔑️ or 💰️🔄
+* Insomnia: Rest client https://insomnia.rest/ ⭐️ | 🔑️ or 💰️🔄
 * Docker: Docker for desktop https://hub.docker.com/editions/community/docker-ce-desktop-mac/ ⭐️ 🏆️ | ❤️
 * Kitematic: Docker container manger https://kitematic.com/ ⭐️ | ❤️
 * Firefox Developer Edition: Development browser https://www.mozilla.org/en-US/firefox/developer/ ⭐️ | ❤️
 * Figma: Web design tool https://www.figma.com/ 🏆️ | 💰️
+* Boop: Developer utilities https://apps.apple.com/us/app/boop/id1518425043?mt=12 ⭐️ | ❤️
 
 ## Command Line
 
